@@ -3,6 +3,6 @@ This project is part of Udacity Data Analysis NanoDegree
 
 <b> it consists of: </b>
 
-- Exploratory data analysis, and visualization.
-- Finding patterns, correlations, etc. in the data set.
-- Polishing selected charts to use in the explanatory visualization.
+- Used Pandas to explore data.
+- Used Pandas, numpy to calculate statistics.
+- Calculated statistics for certain time intervals.
